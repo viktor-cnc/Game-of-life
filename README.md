@@ -1,5 +1,9 @@
 My first program in C#
-Game of life
+"Game of life"
+
+
+
+
 
 1. Create repository in GIT HUB
 2. Create a "Readme.md" file
