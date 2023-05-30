@@ -111,3 +111,4 @@ while (true) // program loop
     ChangeStatusAllCells();                 // game rules for all cells
     System.Threading.Thread.Sleep(100);    // wait 1 second
 }
+//comment
